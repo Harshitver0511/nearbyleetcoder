@@ -1,0 +1,13 @@
+{
+    "manifest_version": 3,
+    "name": "Nearby LeetCoders",
+    "version": "1.0",
+    "description": "Find LeetCode users near your location",
+    "permissions": [
+      "geolocation",
+      "storage"
+    ],
+    "action": {
+      "default_popup": "popup.html"
+    }
+  }
